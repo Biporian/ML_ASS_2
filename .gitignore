@@ -1,0 +1,6 @@
+/test/
+/train/
+/train_32x32/
+/train_32x32_gray_contrast/
+/test_32x32/
+/test_32x32_gray_contrast/
