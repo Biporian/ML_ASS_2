@@ -5,5 +5,5 @@ Newly Generated Features:
 
 Run Neural Network Model:
 1. Run './NN/neuralcnn.ipynb'
-2. This will generate a csv called 'resultscnn/csv' - this is the desired Kaggle results file
+2. This will generate a csv called './NN/resultscnn.csv' - this is the desired Kaggle results file
 
