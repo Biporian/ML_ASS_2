@@ -16,3 +16,7 @@ Run SVM, LOGREG, RF models on all features:
 1. Go to runeverything.ipynb
 2. The models are in cells in order, at the bottom of the file are cells to generate the outcome, named:
     e.g., "svm_alldata_outcome.csv"
+
+ 
+ ##### Some of the models were saved using pkl files, and random lines of code exist throughout
+ ##### the submission loading them. These need to be commented out/ignored if not relevant to current task
