@@ -7,3 +7,12 @@ Run Neural Network Model:
 1. Run './NN/neuralcnn.ipynb'
 2. This will generate a csv called './NN/resultscnn.csv' - this is the desired Kaggle results file
 
+Run SVM, LOGREG, RF models on given features:
+1. Run titular file jupyter notebook file 
+2. Cell at the end will generate a csv with a corresponding name ending in 'outcome':
+    i.e., "svm_initial_outcome.csv"
+
+Run SVM, LOGREG, RF models on all features:
+1. Go to runeverything.ipynb
+2. The models are in cells in order, at the bottom of the file are cells to generate the outcome, named:
+    e.g., "svm_alldata_outcome.csv"
